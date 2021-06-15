@@ -8,7 +8,7 @@ set<ll> st;
 for(i=0;i<n;i++)
 {cin>>x;st.insert(x);}
 cout<<st.size();
-return ;
+return ;              
 }
 int main()
 {
